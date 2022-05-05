@@ -23,7 +23,7 @@ terraform {
     organization = "NOO"
 
     workspaces {
-      name = "main"
+      name = "shaheena"
     }
   }
 }
