@@ -1,6 +1,5 @@
 provider "aws" {
   region = "us-east-1"
-  profile = "aware"
 }
 terraform {
       required_providers {
