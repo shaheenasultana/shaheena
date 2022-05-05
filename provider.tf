@@ -16,7 +16,7 @@ terraform {
 
 #terraform {
  #   backend "s3" {
-  #  bucket = "testing-s3-with-terraform3"
+  #  bucket = "testing-s3-with-terraform56"
    # key    = "C:/Users/srupanagudi/Desktop/practice1/shaheena/terraform.tfstate"
    # region = "us-east-1"
     #}
