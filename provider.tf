@@ -1,8 +1,10 @@
 provider "aws" {
   region = "us-east-1"
-  shared_credentials_file = "‪/Users/srupanagudi/.aws/credentials"
+  shared_credentials_file = "/Users/srupanagudi/.aws/credentials"
   profile = "testing"
 }
+
+
 terraform {
       required_providers {
          aws = {
