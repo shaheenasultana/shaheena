@@ -1,2 +1,2 @@
-I am from kadapa
+This is my first Qualcomm Project
 
